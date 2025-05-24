@@ -10,6 +10,7 @@ mindmap
 ```
 
 ##  Resources - Gamemode
+```mermaid
 mindmap
     root(Resources)
         A(Races)
@@ -40,7 +41,7 @@ mindmap
             CA(Spawn time?)
                 CAA(Kick / godmode)
             CB(Battle-Royale)
-
+```
 ##  Resources - Admin system
 ```mermaid
 mindmap
